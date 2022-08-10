@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 # Contact me
 
 
-<a href="https://web.facebook.com/qusai.alqaisi.56">
+<a href="https://www.facebook.com/profile.php?id=100005955198338">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"height=30px />
 </a>
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </a>
 
 <!-- <a href="https://github.com/Salehziad">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duniaalkilany&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=salehziad&show_icons=true&theme=radical" />
 </a>
  -->
 
