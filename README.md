@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://www.linkedin.com/in/qusai-alqaisi-090037135/">
+<a href="https://www.linkedin.com/in/saleh-ziad-6b40a1214//">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30px  />
 </a>
 
-<a href="qusaiqeisi6@gmail.com">
+<a href="salehziad1999@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"height=30px />
 </a>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/Salehziad">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duniaalkilany&show_icons=true&theme=radical" />
 </a>
  -->
